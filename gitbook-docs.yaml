@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Juris Studies
+  structure:
+    - type: space
+      key: space-1
+      title: Studies De Jure
+      path: studies-de-jure
+      default: true
+      content:
+        directory: ./studies-de-jure
