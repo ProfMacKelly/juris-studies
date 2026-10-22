@@ -1,2 +1,0 @@
-# Vicarious Liability Principles
-

@@ -1,2 +1,0 @@
-# Good-Faith Defense
-

@@ -1,2 +1,0 @@
-# Procedures Prior to Trial
-
