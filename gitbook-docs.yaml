@@ -4,8 +4,8 @@ site:
   structure:
     - type: space
       key: space-1
-      title: Studies De Jure
+      title: Juris Studies
       path: studies-de-jure
       default: true
       content:
-        directory: ./studies-de-jure
+        directory: ./
