@@ -38,8 +38,8 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="../../../../../studies-de-jure/sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/hiibel-v.-sixth-judicial-district-court.md" %}
-[hiibel-v.-sixth-judicial-district-court.md](../../../../../studies-de-jure/sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/hiibel-v.-sixth-judicial-district-court.md)
+{% content-ref url="hiibel-v.-sixth-judicial-district-court.md" %}
+[hiibel-v.-sixth-judicial-district-court.md](hiibel-v.-sixth-judicial-district-court.md)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
