@@ -18,38 +18,32 @@
 
 {% stepper %}
 {% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/page-2.md" %}
-[page-2.md](../contract-law-sales-contracts-and-warranties/page-2.md)
+{% content-ref url="introduction.md" %}
+[introduction.md](introduction.md)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/scope-of-the-ucc.md" %}
-[scope-of-the-ucc.md](../contract-law-sales-contracts-and-warranties/scope-of-the-ucc.md)
+{% content-ref url="intentional-torts.md" %}
+[intentional-torts.md](intentional-torts.md)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/sales-contract-formation.md" %}
-[sales-contract-formation.md](../contract-law-sales-contracts-and-warranties/sales-contract-formation.md)
+{% content-ref url="negligence.md" %}
+[negligence.md](negligence.md)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/performance.md" %}
-[performance.md](../contract-law-sales-contracts-and-warranties/performance.md)
+{% content-ref url="strict-liability.md" %}
+[strict-liability.md](strict-liability.md)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/warranties/" %}
-[warranties](../contract-law-sales-contracts-and-warranties/warranties/)
-{% endcontent-ref %}
-{% endstep %}
-
-{% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/conclusion.md" %}
-[conclusion.md](../contract-law-sales-contracts-and-warranties/conclusion.md)
+{% content-ref url="conclusion.md" %}
+[conclusion.md](conclusion.md)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
