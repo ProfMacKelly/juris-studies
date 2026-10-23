@@ -1,10 +1,10 @@
 # About This Site
 
-This site contributes to ongoing worldwide initiatives to increase access to educational resources for students through [open educational resources (OER)](#user-content-fn-1)[^1]. Among a number of other advantages, OER (a) help mitigate some of the perpetually increasing costs of education, (b) allow educators the flexibility to provide materials customized to their students' needs, and (c) are easy to update. (After all, instructors and students alike have experienced the student’s dilemma of whether to pay the premium price of a required textbook's "new edition" or save money with a potentially outdated older edition. And let's face it, students have no realistic way of determining whether there are any meaningful differences between a "new edition" and a previous version. Sometimes, there are, sometimes, there aren't.)
+[This site](#user-content-fn-1)[^1] was created for the purposes of providing learning resources for students in undergraduate legal courses, and it contributes to ongoing worldwide initiatives to increase access to educational resources for students through [open educational resources (OER)](#user-content-fn-2)[^2]. Among a number of other advantages, OER (a) help mitigate some of the perpetually increasing costs of education, (b) allow educators the flexibility to provide materials customized to their students' needs, and (c) are easy to update. (After all, instructors and students alike have experienced the student’s dilemma of whether to pay the premium price of a required textbook's "new edition" or save money with a potentially outdated older edition. And let's face it, students have no realistic way of determining whether there are any meaningful differences between a "new edition" and a previous version. Sometimes, there are, sometimes, there aren't.)
 
-[Juris Studies](https://profmackelly.gitbook.io/learn) hosts a collection of [openly licensed](glossary.md#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). The Sourcebooks section of the site contains primarily content for undergraduate legal courses. Complying with copyright licensing terms, I have adapted, remixed, and/or incorporated other creators' work into these materials to avoid reinventing the wheel, as well as integrated content that I authored, for a customized and interactive experience. Attributions and licensing details for adapted/remixed works appear on each page.
+This site hosts a collection of [openly licensed](glossary.md#open-license) resourcess that are free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). Complying with copyright licensing terms, I have adapted, remixed, and/or incorporated other creators' work into these materials to avoid reinventing the wheel, as well as integrated content that I authored, for a customized and interactive experience. Attributions and licensing details for adapted/remixed works appear on each page.
 
-Finally, a note about generative AI: If I used the assistance of text or image generation tools, that will be clearly noted in the Attribution and Licensing section at the bottom of the relevant page(s). Any stylistic elements that are commonly associated with generative AI output (such as emojis[^2], [em dashes](#user-content-fn-3)[^3], bullet point lists, etc.) are my independent and intentional stylistic choices.
+If I used the assistance of generative AI tools for any text or image generation that will be clearly noted in the Attribution and Licensing section at the bottom of the relevant page(s). Any stylistic elements that are commonly associated with generative AI output (such as emojis[^3], [em dashes](#user-content-fn-4)[^4], bullet point lists, etc.) are my independent and intentional stylistic choices unless otherwise stated.
 
 I hope these resources are helpful!
 
@@ -20,13 +20,13 @@ Use the table of contents in the left sidebar to browse through the resources. C
 
 ### Interactive Elements
 
-Engage with any interactive elements such as links, [annotations, expandable widgets](#user-content-fn-4)[^4], videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
+Engage with any interactive elements such as links, [annotations, expandable widgets](#user-content-fn-5)[^5], videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
 
 <details>
 
 <summary><mark style="color:$primary;"><strong>How Annotations Work in This Sourcebook</strong></mark></summary>
 
-The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-5)[^5] To read the annotation, hover over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.
+The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-6)[^6] To read the annotation, hover over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.
 
 Also, instead of traditional footnotes or endnotes, many references and citations to original source content are located in these annotations.
 
@@ -72,12 +72,14 @@ This site's [scale/books](https://www.flaticon.com/free-icon/laws_1728907?term=s
 
 </details>
 
-[^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)).
+[^1]: fadff
 
-[^2]: No apologies. They're fun, and they're at the center of a [number of legal issues](https://blog.ericgoldman.org/archives/category/emojis).
+[^2]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)).
 
-[^3]: Generative AI seems to have given the em dash a bad name. Not only are em dashes actually commonly seen in legal writing and textbook publishing, but they have also been used in [literary writing no later than the 17th century](https://publishingstate.com/who-first-used-the-em-dash-a-short-history-of-a-long-mark/2025/#early-typographic-roots).
+[^3]: No apologies. They're fun, and they're at the center of a [number of legal issues](https://blog.ericgoldman.org/archives/category/emojis).
 
-[^4]: Such as this: [**How Annotations Work in This Sourcebook**](about.md#how-annotations-work-in-this-sourcebook), below. Click the caret (**>**) on the left side of the widget to expand and reveal its contents.
+[^4]: Generative AI seems to have given the em dash a bad name. Not only are em dashes actually commonly seen in legal writing and textbook publishing, but they have also been used in [literary writing no later than the 17th century](https://publishingstate.com/who-first-used-the-em-dash-a-short-history-of-a-long-mark/2025/#early-typographic-roots).
 
-[^5]: This is the annotation.
+[^5]: Such as this: [**How Annotations Work in This Sourcebook**](about.md#how-annotations-work-in-this-sourcebook), below. Click the caret (**>**) on the left side of the widget to expand and reveal its contents.
+
+[^6]: This is the annotation.
