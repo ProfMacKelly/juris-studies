@@ -1,6 +1,275 @@
----
-hidden: true
----
-
 # Tort Law
 
+{% hint style="info" %}
+**LEARNING OBJECTIVES 🎯**
+
+1. Explain the legal concept of a "tort."
+2. Explain the elements of negligence and apply them to a set of facts to evaluate liability.
+3. Explain the rules for strict product liability and apply them to a set of facts to evaluate liability.
+4. Explain the elements of various intentional torts and apply them to a set of facts to evaluate liability.
+5. Explain the elements of negligence and apply them to a set of facts to evaluate liability
+6. Identify applicable affirmative defenses tort claims..
+7. Identify remedies for tort claims.
+{% endhint %}
+
+***
+
+### Overview
+
+A tort can be understood as a civil wrong to a person or property other than breach of contract. A **tort** is any legally recognizable injury arising from the conduct (or sometimes failure to act) of persons or corporations. There are several key differences between torts and contracts, which are also different than crimes:
+
+|                  | **Contract**                                                  | **Tort**                           | **Crime**                                                         |
+| ---------------- | ------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
+| **Obligation**   | The parties agree to a contract; which imposes duties on them | Civil law imposes duties           | Legislatures pass laws prohibiting certain conduct                |
+| **Enforcement**  | Party to contract or beneficiary sues for breach of contract  | Injured party sues for tort claims | Government prosecutes                                             |
+| **Consequences** | Monetary damages                                              | Monetary damages; injunction       | Criminal conviction may include fine, imprisonment, & restitution |
+
+Some conduct can be both a crime and a tort. If Allie punches Bentley without provocation, then Allie has committed both the tort of battery and the crime of battery. In the tort case, Bentley could sue Allie in civil court for money damages (typically for his medical bills). That case would be tried based on the civil burden of proof—preponderance of the evidence. That same action, however, could result in Allie being charged with criminal battery. If convicted beyond a reasonable doubt, Allie may have to pay a fine or go to jail.
+
+The standard of proof in a criminal case (beyond a reasonable doubt) is far higher than the standard of proof in a civil case (a preponderance of evidence). Therefore, victims of crimes often wait to bring related tort claims against a defendant until after the criminal trial is over. If the defendant is convicted of a crime, it is easier and less expensive to prove liability at a civil trial.
+
+Torts can be broadly categorized into three categories, depending on the level of intent demonstrated by the **tortfeasor** (the person committing the tort). If the tortfeasor acted with intent to cause the damage or harm, then an **intentional tort** has occurred. If the tortfeasor didn’t act intentionally but failed to act as a reasonable person, then **negligence** occurs. Finally, **strict liability** occurs where the tortfeasor is held responsible regardless of intent.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Figure 7.1 Tort Liability Diagram</p></figcaption></figure>
+
+**Counselor’s Corner** Not every injury or harm gives rise to a legal claim. You can’t sue someone just because your feelings are hurt or something bad happened. Even though you may have been through something harmful, if the law doesn’t recognize the injury as something you can recover for, you don’t have a legal claim. Lawsuits are meant to address really bad injuries or really bad behavior. Many things that drive us crazy when dealing with other people are things that we just have to learn to deal with. Or resolve in another forum. \~Heather C., attorney
+
+## 9.2 Intentional Torts <a href="#chapter-65-section-2" id="chapter-65-section-2"></a>
+
+In an intentional tort, the tortfeasor intends the consequences of his or her act, or knew with substantial certainty that certain consequences would result. This intent can be transferred. For example, if someone swings a baseball bat at someone else but the person ducks and the bat hits a third person, the person hit is the victim of a tort even if the person swinging the bat had no intention of hitting the person actually injured.
+
+It is useful to think of torts based on the type of rights being protected.
+
+| **Theory of Liability**                      | **Description**                                                                                                                                                                                                                                                                            |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Interference with Personal Freedom**       |                                                                                                                                                                                                                                                                                            |
+| Assault                                      | Causing the apprehension or fear of immediate harmful or offensive contact                                                                                                                                                                                                                 |
+| Battery                                      | Application of force that results in harmful or offensive contact with a person’s body                                                                                                                                                                                                     |
+| False Imprisonment                           | Intentional confinement or restrain of a person’s movements without justification or consent                                                                                                                                                                                               |
+| Intentional Infliction of Emotional Distress | Intentionally or recklessly causing another person severe emotional distress through extreme or outrageous acts                                                                                                                                                                            |
+| **Interference with Property Rights**        |                                                                                                                                                                                                                                                                                            |
+| Trespass to Land                             | Unauthorized entry onto land that is visibly enclosed & owned by another                                                                                                                                                                                                                   |
+| Trespass to Personal Property                | Taking or harming another’s personal property without permission                                                                                                                                                                                                                           |
+| Conversion                                   | Wrongful possession or disposition of property as if it were one’s own with the intent to do so permanently                                                                                                                                                                                |
+| Nuisance                                     | Condition or situation that interferes with the use or enjoyment of property                                                                                                                                                                                                               |
+| **Interference with Economic Relations**     |                                                                                                                                                                                                                                                                                            |
+| Disparagement                                | False & injurious statement that discredits or detracts from the reputation of another’s property, product or business                                                                                                                                                                     |
+| Interference with Contractual Relations      | Intentional inducement of a party to break an existing contract                                                                                                                                                                                                                            |
+| Interference with Prospective Advantage      | Intentional interference with a potential business relationship                                                                                                                                                                                                                            |
+| Misappropriation                             | Using another’s property dishonestly for one’s own use                                                                                                                                                                                                                                     |
+| **Wrongful Communications**                  |                                                                                                                                                                                                                                                                                            |
+| Defamation                                   | Harming the reputation of another by making a false statement                                                                                                                                                                                                                              |
+| Slander                                      | Spoken defamation                                                                                                                                                                                                                                                                          |
+| Libel                                        | Written defamation                                                                                                                                                                                                                                                                         |
+| Invasion of Privacy                          | <p>Violating someone’s right to be left alone or to restrict public access to confidential information through:</p><ul><li>appropriating the person’s name or likeness;</li><li>invasion of physical solitude;</li><li>publicly disclosing private facts; or</li><li>false light</li></ul> |
+| Fraud                                        | Intentional misstatement of a material fact that is relied upon by a third party                                                                                                                                                                                                           |
+
+#### Interference with Personal Freedom
+
+**Assault** is the threat of force on another that causes that person to have a reasonable apprehension or fear of immediate harmful or offensive contact. Actual fear or physical injuries are not required for assault. It is also not necessary for the tortfeasor to intend to cause apprehension or fear. If someone points a realistic-looking toy pistol at a stranger and says “give me all your money” as a joke, it is still assault if a reasonable person would have had apprehension or fear in that situation. The intentional element of assault exists here, because the tortfeasor intended to point the realistic-looking toy at the stranger.
+
+**Battery** is the application of force to another that results in harmful or offensive conduct. It includes any non-consensual touching, even if physical injuries are not present. In battery, the contact or touching does not have to be to the person. Grabbing someone’s clothing or possessions they are holding is battery. Notice that assault and battery are not always present together. Assault can occur without physically touching the victim. Similarly, a surgeon who performs unwanted surgery or inappropriately touches a patient who is sedated has committed battery but not assault because the patient did not feel fear or apprehension.
+
+When someone is sued for assault or battery, several defenses are available. The first is consent. Boxers have consented to being battered when competing. Self-defense and defense of others also may be available defenses, as long as the self-defense is proportionate to the initial force.
+
+**False imprisonment** occurs when someone intentionally confines or restrains another person’s movement or activities without justification. The protected interest is the right to travel and move freely without impediment. This tort requires actual and present confinement. False imprisonment is challenging for retailers and other businesses that interact regularly with the public, such as hotels and restaurants. The **shopkeeper’s privilege** allows businesses to detain suspected thieves until law enforcement arrives. The detention must be reasonable, however. Store employees must not use excessive force in detaining the suspect, and the justification, manner, and time of the detention must be reasonable.
+
+**Intentional infliction of emotional distress** occurs when a tortfeasor intentionally or recklessly causes another person severe emotional distress through extreme and outrageous acts. A plaintiff has to prove the defendant’s actions would be outrageous to a reasonable member of the community. The standard is objective. It is not enough for the plaintiff to believe the defendant acted outrageously.
+
+Although the standard for outrageous conduct is objective, the measurement is made against the particular sensitivities of the plaintiff. Exploiting a known sensitivity in a child, the elderly, or pregnant women can constitute intentional infliction of emotional distress. Businesses must be careful when handling sensitive employment situations to avoid potential liability. This is especially true when firing or laying off employees. Such actions must be taken with care and civility. Similarly, bill collectors and foreclosure agencies must be careful not to harass, intimidate, or threaten people.
+
+#### Interference with Property Rights
+
+Intentional torts can also be committed against property. **Trespass to land** occurs when someone enters onto, above, or below the surface of land that is visibly enclosed without the owner’s permission. The trespass can be momentary or fleeting. Soot, smoke, noise, odor, or even a flying arrow or bullet can all become the basis for trespass. These can also be the basis for nuisance claims. **Nuisance** is a condition or situation that interferes with the use or enjoyment of property. Nuisance claims can be public (applying to community areas such as parks or the environment) or private (applying to privately owned property such as houses).
+
+Trespass can be innocent or willful. An innocent trespass occurs when someone enters another’s property by mistake or when they believe they have permission but do not. Willful trespass occurs when someone intentionally enters another’s property knowing they do not have permission to be there.
+
+There are times when trespass is justified. Someone may have a license to trespass, such as a meter reader or utility repair technician. There may also be times when it may be necessary to trespass—for example, to rescue someone during an emergency.
+
+Some states do not require the land to be visibly enclosed to be protected from trespass. Therefore, residential homes in urban and suburban areas do not always need a fence around the property to be protected from trespass.
+
+**Trespass to personal property** is the unlawful taking or harming of another’s personal property without the owner’s permission. The tort of **conversion** is the wrongful possession or disposition of property as if it were one’s own with the intent to do so permanently. It is the civil equivalent to the crime of theft. An employer who refuses to pay an employee for work commits conversion. Similarly, conversion occurs when a business returns personal property to the wrong customer.
+
+#### Interference with Economic Relations
+
+Torts can also take place against goods or products instead of people. **Disparagement** is a false and injurious statement that discredits or detracts from the reputation of another’s property, product, or business. To recover, the injured party must prove that the statement caused a third party to take some action resulting in economic loss to the plaintiff. In other words, the victim of the statement must prove that it lost customers or goodwill as a result of the false statement made about its business or products. These types of false statements are considered unfair competition and, therefore, are unlawful.
+
+Similarly, unfair competition can also be in the form of interfering with a competitor’s contracts. **Tortious interference with contractual relations** prohibits the intentional interference with an existing valid and enforceable contract by intentionally inducing one of the parties to break the contract, causing damage to the relationship between the contracting parties. This occurs when a business tries to break up a competitor’s contract with vendors, suppliers, or customers in an effort to harm them.
+
+There are four elements to prove intentional interference with contractual relations:
+
+1. A contract exists between the plaintiff and a third party;
+2. Defendant knew of the contract;
+3. Defendant improperly induced the third party to breach the contract or made performance of the contract impossible; and
+4. Plaintiff was injured.
+
+Similarly, **tortious interference with prospective advantage** is an intentional, damaging intrusion on another’s potential business relationship, such as the opportunity to obtain customers or employment. Fair competition does not give rise to this tort. However, if a business engages in fraud, intimidation, or threats to drive away potential customers from its competitors, then it is liable. Tortious interference with prospective advantage applies to conduct before a contract exists.
+
+**Misappropriation** occurs when a person or business uses someone else’s property dishonestly for one’s own use. Misappropriation is a very broad tort because it covers any likeness or identifying characteristic, as well as property such as patents, copyrights, and trademarks. It also applies to a business’s name and goodwill.
+
+#### Wrongful Communications
+
+Another intentional tort is **defamation**, which is the act of harming the reputation of another by making a false statement to a third party. Spoken defamation is considered **slander**, while written defamation is **libel**. To be liable for defamation, the words must be made to a third party, which may include emails, text messages, and social media. The First Amendment provides strong protection for news organizations, and courts have held that public figures must show actual malice before they can win a defamation lawsuit. This means celebrities and famous individuals must prove the media knew that it was publishing false information, or that it published the information with reckless disregard for the truth. Truth is a complete defense to defamation.
+
+The **invasion of the right of privacy** is essentially the violation of a person’s right to be left alone and to restrict public access to personal information, such as tax returns and medical records. There are four forms of this tort:
+
+| **Form of Invasion of Privacy**              | **Description**                                                                                                                                                                  |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Appropriating a person’s name or likeness | Using someone’s name, photograph, or other identifying characteristic for commercial purposes without permission                                                                 |
+| 2. Invasion of physical solitude             | Window peeping, eavesdropping, using drones to video private areas, going through garage to find confidential information, etc.                                                  |
+| 3. Public disclosure of private facts        | Disclosure of a private citizen’s finances, medical conditions, or personal relationships through a public medium such as social media                                           |
+| 4. False light                               | Using publicity to place a person in false light in the public eye, such as objectionable hobbies or attributing beliefs and opinions to the person that he or she does not hold |
+
+**Fraud** is the intentional misstatement of a material fact that is relied upon by a third party to the detriment of the targeted party. It requires the tortfeasor to misrepresent facts (not opinions) with knowledge that they are false or with reckless disregard for the truth. An “innocent” misrepresentation is not enough—the defendant must know he or she is lying. Fraud can arise in any number of business situations, such as lying on a résumé to gain employment, lying on a credit application to obtain credit, or in product marketing. Here, there is a fine line between **puffery**, or seller’s talk, and an actual lie. If an advertisement claims that a particular car gets a certain gas mileage or meets emissions standards, then fraud occurs if those statements are untrue. Conversely, an advertisement that promises “unparalleled luxury” is only puffery since it is opinion.
+
+## 9.3 Negligence <a href="#chapter-65-section-3" id="chapter-65-section-3"></a>
+
+Everyone has the duty to act reasonably and to exercise a reasonable amount of care in their dealings and interactions with others. Breach of that duty, which causes injury, is negligence. Negligence is distinguished from intentional torts because there is a lack of intent to cause harm.
+
+The definition of negligence is purposefully broad. **Negligence** is the failure to exercise the standard of care that a reasonably prudent person would have exercised in a similar situation. This legal standard is to protect people against unreasonable risk of harm.
+
+To succeed on a negligence claim, a plaintiff must prove five elements:
+
+1. The defendant owed a duty of care to the plaintiff;
+2. The defendant breached that duty;
+3. The defendant’s conduct was the actual cause of the plaintiff’s injuries;
+4. The defendant’s conduct was the proximate cause of the plaintiff’s injuries; and
+5. The plaintiff was damaged.
+
+### Duty of Care
+
+First, the plaintiff has to demonstrate that the defendant owed it a duty of care. The general rule is that people are free to act any way they want, as long as they do not harm others. This means strangers are generally not responsible for caring for each other unless a special relationship exists. For example, parents owe their children a duty of care and doctors owe their patients a duty of care because of their underlying relationship. In a business context, businesses owe a duty of care to their customers and managers owe a duty of care to their employees. Some business relationships involve a **fiduciary duty**, which is a duty to act with the utmost faith, trust, and candor towards another. Doctors, lawyers, accountants, and corporate officers all have fiduciary duties towards their patients, clients, and shareholders.
+
+It is important to understand that businesses and individuals owe a general duty to the community as a whole. Drivers owe other drivers and pedestrians a duty of care not to cause accidents. However, drivers are not required to report accidents or to stop and help others when they are not involved because they do not owe a duty of care to strangers.
+
+Businesses have a duty to warn and protect customers from crimes committed by other customers. When a business knows about, or should know about, a high likelihood of crime occurring, then the business must warn or take steps to protect its customers. These businesses include bars frequented by biker gangs, hotels where frequent sexual assaults occur, and any business with escalating violence on their premises.
+
+Businesses also owe a duty to exercise a reasonable degree of care to protect the public from foreseeable risks that the owner knew or should have known about. There are many foreseeable ways for customers to be injured in retail stores, including objects falling from shelves, spilled liquids, and icy entryways. If a store knows about a hazardous condition, or should have known about it, then the store must quickly warn customers and remedy the situation.
+
+### Breach of Duty of Care
+
+Once a duty has been established, plaintiffs have to prove that the defendant breached that duty. A breach is demonstrated by showing the defendant failed to act reasonably. It is important to keep in mind that the reasonable person is an objective standard. The reasonable person is never sleep-deprived, angry, or intoxicated. He or she is reasonably careful and considers consequences carefully before acting. A jury does not put themselves in the shoes of the defendant to determine what they would have done in that situation. Nor do they take into account the defendant’s subjective situation, such as being intoxicated or sleep-deprived at the time.
+
+In practical terms, the presence of injury or harm is usually enough to satisfy the “breach of duty” requirement. Often the harm is the evidence of the breach because it would not have occurred if the defendant had acted as they should.
+
+Breach of the duty of care can be both an action (such as causing a car accident) or it can be a failure to act (such as not clearing ice from the sidewalk). These are fact-specific determinations because what a reasonable person would do in a given situation varies.
+
+There are two special doctrines that establish breach of duty of care in limited circumstances. The first, **res ipsa loquitur**, means “the thing speaks for itself” in Latin and holds that a breach of a party’s duty of care may be inferred from the events that occurred. It is used in cases where:
+
+1. The injury would not have occurred unless someone was negligent;
+2. The defendant had exclusive control over the property causing injury; and
+3. The plaintiff had no role in causing the harm.
+
+For example, if a patient discovers surgical equipment inside his or her body after surgery, the patient does not have to prove which person in the operating room negligently left the equipment. Instead, the plaintiff can sue the surgeon under the res ipsa loquitur doctrine because the surgeon is in charge of the surgery room. When res ipsa loquitur is raised, the burden shifts to the defendant to prove that he or she did not cause the harm.
+
+Figure 9.2 X-Ray Image of Scissors Left Inside a Patient\
+\
+The second doctrine is **negligence per se**. Legislatures sometimes pass laws defining negligence under certain circumstances. If a defendant violates the statute or ordinance, then the defendant is legally negligent. To recover under this theory, a plaintiff has to prove:
+
+1. The defendant broke the law;
+2. The plaintiff is in the class of people intended to be protected by the law; and
+3. The violation of the law caused plaintiff’s injuries.
+
+Negligence per se is often argued in car accidents where the defendant is ticketed for reckless driving by the police, as well as dog bite cases where the victim has physical injuries. When defending against negligence per se claims, defendants may argue:
+
+1. They were unable to comply with the law through reasonable care;
+2. It was an emergency situation not caused by them; or
+3. Complying with the law would have presented a greater risk of harm.
+
+### Actual Cause
+
+The third element of negligence is actual causation, which is also known as but-for causation. This form of causation is fairly easy to prove. But for the defendant’s actions, would the plaintiff have been injured? If yes, then but-for causation is proven. For example, if a customer slips on ice on a store’s property, would the plaintiff been injured but for the store’s failure to remove the ice? This is the form of causation that most people describe in their daily interactions. Because the store did not remove the ice, the customer slipped and was injured.
+
+### Proximate Cause
+
+The second form of causation asks whether the defendant’s actions were the proximate cause of the plaintiff’s injury. Sometimes the chain of events results in the injury being too remote from the defendant’s conduct to be legally recoverable. In other words, proximate cause means that the act or omission must be related closely enough to the injury to justify imposing legal liability. Proximate cause places a limit on a defendant’s responsibility to immediate (or foreseeable) harm. This ensures that no intervening causes of the plaintiff’s injuries exist.
+
+A customer slips on ice on a store’s property and breaks a leg. On the way to the hospital in an ambulance, there is a car accident and the customer is killed. Although the customer would not have been in the ambulance if she had not fallen on the store’s property, the store would not be responsible in a wrongful death claim. The car accident is an intervening event that breaks the causal chain. Put another way, the car accident was not a foreseeable consequence of the store’s failure to remove ice on its premises.
+
+Proximate cause prevents actual causation to be taken to a logical but extreme conclusion. At some point, the law has to break the chain of causation to hold parties to a reasonable amount of liability for their actions.
+
+### Damages
+
+The final element in negligence is legally recognizable injuries, or damages. If someone walks on a discarded banana peel and does not slip, then no tort occurs. Only when someone has been injured are damages awarded.
+
+There are two types of damages awarded in tort law. The first, **compensatory damages**, seek to compensate the plaintiff for his or her injuries. Compensatory damages can be awarded for medical injuries, economic injuries (such as loss of property or income), and pain and suffering. They can also be awarded for past, present, and future losses. While medical and economic damages can be calculated using available standards, it is far more difficult to assign a monetary value to pain and suffering. Juries often use the severity and duration of the injury and its impact on the plaintiff’s life to calculate damages.
+
+The second type of damages is **punitive damages**, which are intended to deter the defendant from engaging in similar conduct in the future. The idea behind punitive damages is that compensatory damages may be inadequate to deter future bad conduct, so additional damages are necessary to ensure the defendant corrects its ways. Punitive damages are available in cases where the defendant acted with willful and wanton negligence, a higher level of negligence than ordinary negligence. There are constitutional limits to the award of punitive damages.
+
+### Defenses to Negligence Claims
+
+A defendant being sued for negligence has two main defenses: (1) assumption of risk by the plaintiff; and (2) comparative negligence.
+
+#### Assumption of Risk
+
+The first defense is assumption of risk. If the plaintiff knowingly and voluntarily assumes the risk of participating in a dangerous activity, then the defendant is not liable for injuries incurred. However, a plaintiff can only assume known risks. A skier assumes the known risks of downhill skiing, including falling, avalanches, and skiing in poor conditions. However, a skier who is injured from a defective chair lift does not assume the risk of injury as a result of a manufacturing defect.
+
+A related doctrine, the **open and obvious doctrine**, is used to defend against lawsuits by persons injured while on someone else’s property. For example, if there is a spill on a store’s floor and the store owner has put up a sign that says “Caution—Slippery Floor,” yet someone decides to run through the spill anyway, then that person would lose a negligence lawsuit because the spill was open and obvious.
+
+Both the assumption of risk and open and obvious defenses are not available to the defendant who caused a dangerous situation in the first place.
+
+#### Comparative Negligence
+
+The second defense to negligence is when the plaintiff’s own negligence contributed to his or her injuries. Most jurisdictions, including Colorado, follow the comparative negligence rule. Under this rule, the jury determines the percentage of fault of all the parties for the plaintiff’s injuries. If the jury finds the plaintiff responsible for some of his or her own injuries, then any compensatory damages are reduced by that percentage. For example, if a customer is 40 percent at fault for his injuries, then the compensatory damage award will be reduced by 40 percent. The reasoning for this rule is to hold people and businesses accountable for their own negligence.
+
+Figure 9.3 Recovery of Damages under Comparative Negligence
+
+<img src="../../.gitbook/assets/9.3 Types of Damages Compensatory vs. Punitive (1).jpg" alt="graphic showing plaintiff&#x27;s recovery of punitive and compensatory damages in comparative fault system" height="612" width="794">
+
+This rule applies only to compensatory damages, and not punitive damages. Because punitive damages are meant to deter the defendant from committing future bad acts, the purpose would be undercut if the amount of punitive damages was reduced, too.
+
+## 9.4 Strict Liability <a href="#chapter-65-section-4" id="chapter-65-section-4"></a>
+
+Intentional torts require some level of intent to be committed, such as the intent to batter someone. Negligence torts require carelessness or neglect. Some torts require neither intent nor carelessness. In strict liability, it is irrelevant how carefully the defendant acted. If someone is harmed in a situation where strict liability applies, then the defendant is liable regardless of lack of intent.
+
+Strict liability applies when restaurants and bars serve alcohol to minors or visibly intoxicated persons. This is dangerous because there is a high risk that drunk patrons will injure others if they drive. Sale of tobacco and firearms to minors are also strict liability crimes, as well as possession of child pornography.
+
+#### Ultrahazardous Activity
+
+An **ultrahazardous activity** is an undertaking that cannot be performed safely even if reasonable care is used while performing it, and it does not ordinarily happen in the community. Ultrahazardous activities include using dynamite, transporting dangerous chemicals, keeping wild animals, and using nuclear and radioactive materials. Some states have passed laws defining offshore drilling for oil and gas as an ultrahazardous activity as well.
+
+Defendants engaged in ultrahazardous activities are almost always liable for resulting harm. Plaintiffs do not have to prove duty of care or breach of duty of care. The “reasonable person” test is also irrelevant, as well as the issue of whether the harm was foreseeable.
+
+#### Product Liability
+
+**Product liability** cases address situations in which products, not people, cause injury. Plaintiffs can raise either negligence or strict liability claims for injuries caused by products. There are three main product liability theories: design defect, manufacturing defects, and failure to warn.
+
+**Design defects** occur when the foreseeable risk of harm can be reduced or avoided by the adoption of a reasonable alternative design. In other words, the manufacturer poorly designed a product that caused injuries which could have been avoided. The law does not require products to be perfect. Litigation in these cases centers on what is a foreseeable risk and whether there was a reasonable alternative. As a result, plaintiffs must show that an alternative design was reasonable.
+
+For example, Takata manufactured airbags that were installed by most major car manufacturers. After many airbags failed to deploy in car accidents, leading to severe injury and death, Takata recalled its airbags. Takata is strictly liable for injuries caused by its defective design.
+
+**Manufacturing defects** occur when a product fails to conform to the manufacturer’s design for the product. In other words, the product may have been designed adequately but the manufacturer allowed a dangerous product to leave the plant. These claims often involve allegations of failure to adequately inspect products before distribution.
+
+For example, a light bulb factory is strictly liable for manufacturing a batch of faulty bulbs that explode when turned on due to some glitch in the production process.
+
+**Failure to warn** occurs when the defect is not in the product itself but in the instructions (or lack of them). The plaintiff argues that the manufacturer failed to warn users about the dangers of normal use or a foreseeable misuse. However, there is no duty to warn about obvious dangers.
+
+**Defenses to Product Liability**
+
+There are several defenses to product liability claims.
+
+First, strict liability applies only to commercial sellers. If an individual sells her car to another person, she would not be strictly liable for selling an unreasonably dangerous product if it had Takata airbags.
+
+Second, plaintiff’s assumption of risk can be a defense. The user must know of the risk of harm and voluntarily assume that risk. Someone cutting carrots with a sharp knife voluntarily assumes the risk of being cut by the knife. However, if the knife blade unexpectedly detaches from the knife handle because of a design or production defect, no assumption of risk occurs.
+
+Third, product misuse is another defense to strict product liability. If the consumer misuses the product in a way that is unforeseeable by the manufacturer, then strict liability does not apply. Modifying a lawn mower to operate as a go-kart, for instance, is product misuse.
+
+A final related defense is known as the commonly known danger doctrine. If a manufacturer can convince a jury that the plaintiff’s injury resulted from a commonly known danger, then the defendant may escape liability.
+
+## 9.5 Concluding Thoughts <a href="#chapter-65-section-5" id="chapter-65-section-5"></a>
+
+Tort law significantly impacts businesses, regardless of industry. Businesses must not engage in activities with the intention to harm employees, customers, and the public. They also must act reasonably to avoid injuries caused by their negligence. Similarly, manufacturers can be strictly liable for design defects, manufacturing defects, and failure to warn consumers. Because many businesses are seen to have “deep pockets,” they are often targeted by plaintiffs when injured by their products and services.
+
+Intentional torts occur when the tortfeasor intends the consequences of his or her act or knew with substantial certainty what the consequences would be. Businesses are affected by intentional torts and need to be careful not to commit them against their employees, customers, and members of the public. It is useful to categorize intentional torts based on the types of rights being protected, such as preventing injuries to persons, property or privacy.
+
+Negligence imposes a duty on all persons to act reasonably and to exercise due care in dealing and interacting with others. Negligence has five elements. First, the plaintiff must demonstrate the defendant owed the plaintiff a duty of care. Second, there must be a breach of that duty. A breach occurs when the defendant fails to act like a reasonable person. The plaintiff must also demonstrate that the defendant caused the plaintiff’s injuries. Both causation-in-fact and proximate causation must be proven. Finally, the plaintiff must demonstrate legally recognizable injuries, which include past, present, and future economic, medical, and pain and suffering damages. Defendants can raise several affirmative defenses to negligence, including assumption of risk and comparative negligence.
+
+In areas where strict liability applies, the defendant is liable no matter how carefully it tried to prevent harm. Carrying out ultrahazardous activities results in strict liability for defendants. Another area where strict liability applies is in the serving of alcohol to minors or visibly intoxicated persons. A large area of strict liability applies to the manufacture, distribution, and sale of unreasonably dangerous products. Products can be unreasonably dangerous because of a production defect, design defect, or both. A product’s warnings and documentation are a part of a product’s design, and therefore inadequate warnings can be a basis for strict product liability. Assumption of risk, product misuse, and commonly known dangers are all defenses to strict product liability.
+
+### License
+
+![Icon for the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://pressbooks.pub/app/themes/pressbooks-book/packages/buckram/assets/images/cc-by-nc-sa.svg)
+
+[Torts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-9/) Copyright © 2020 by Melissa Randall is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/), except where otherwise noted.
+
+### Share This Book
