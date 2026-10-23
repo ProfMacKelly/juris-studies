@@ -1,11 +1,5 @@
 # About This Site
 
-
-A retailer may owe customers a [duty of care]
-
-[^duty-of-care]: A legal obligation to exercise reasonable care to prevent foreseeable harm to others.
-
-
 This site contributes to ongoing worldwide initiatives to increase access to educational resources for students through [open educational resources (OER)](#user-content-fn-1)[^1]. Among a number of other advantages, OER (a) help mitigate some of the perpetually increasing costs of education, (b) allow educators the flexibility to provide materials customized to their students' needs, and (c) are easy to update. (After all, instructors and students alike have experienced the student’s dilemma of whether to pay the premium price of a required textbook's "new edition" or save money with a potentially outdated older edition. And let's face it, students have no realistic way of determining whether there are any meaningful differences between a "new edition" and a previous version. Sometimes, there are, sometimes, there aren't.)
 
 [Studies De Jure](https://studies-de-jure.gitbook.io/learn) hosts a collection of [openly licensed](glossary.md#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). The Sourcebooks section of the site contains primarily content for undergraduate legal courses. Complying with copyright licensing terms, I have adapted, remixed, and/or incorporated other creators' work into these materials to avoid reinventing the wheel, as well as integrated content that I authored, for a customized and interactive experience. Attributions and licensing details for adapted/remixed works appear on each page.
