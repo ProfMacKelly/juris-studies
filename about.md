@@ -1,7 +1,7 @@
 # About This Site
 
 
-A retailer may owe customers a [duty of care](#user-content-fn-0)[^0]
+A retailer may owe customers a [duty of care](#user-content-fn-1)[^1]
 
 [^duty-of-care]: A legal obligation to exercise reasonable care to prevent foreseeable harm to others.
 
