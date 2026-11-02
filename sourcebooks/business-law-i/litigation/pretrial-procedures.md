@@ -1,6 +1,6 @@
 # Pretrial Procedures
 
-<figure><img src="https://biz.libretexts.org/@api/deki/files/20761/3.6-Litigation-Timeline-scaled-1.jpg?revision=1&#x26;size=bestfit&#x26;width=706&#x26;height=546" alt="Litigation timeline from the legal complaint through trial" height="546" width="706"><figcaption><p>Figure 3.1 Litigation Flowchart</p></figcaption></figure>
+<figure><img src="https://biz.libretexts.org/@api/deki/files/20761/3.6-Litigation-Timeline-scaled-1.jpg?revision=1&#x26;size=bestfit&#x26;width=706&#x26;height=546" alt="Litigation timeline from the legal complaint through trial" height="546" width="706"><figcaption><p>Figure 4.1 Litigation Flowchart</p></figcaption></figure>
 
 ### Pleadings
 
