@@ -532,7 +532,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/petition) by [C
 
 #### petitioner
 
-the party who presents a petition to the court; in the context of an appeal, the petitioner is usually the party who lost in the lower court (also referred to as the [appellant](/broken/pages/c2a4e275bb11370122f9467f7c83e0ad3fc07ce0#appellant))
+the party who presents a petition to the court; in the context of an appeal, the petitioner is usually the party who lost in the lower court (also referred to as the [appellant](https://profmackelly.gitbook.io/learn/glossary#appellant))
 
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/petitioner) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 

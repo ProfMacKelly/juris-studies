@@ -239,6 +239,7 @@
   * [Securities Regulation](sourcebooks/business-law-i/securities-regulation.md)
   * [Sources Referenced in Annotations](sourcebooks/business-law-i/sources-referenced-in-annotations.md)
   * [Unfair Trade Practices](sourcebooks/business-law-i/unfair-trade-practices.md)
+* [Bioethics and the Law](https://profmackelly.gitbook.io/bioethics-and-the-law/)
 * [criminal-law](sourcebooks/criminal-law/README.md)
   * [The Legal System in the United States](sourcebooks/criminal-law/1.0.md)
   * [1.1: Introduction](sourcebooks/criminal-law/1.1-introduction.md)
@@ -330,3 +331,4 @@
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
 * [Glossary GitBook Agent Command and Quiz Embed](page-1.md)
+* [Legacy Review Archive](legacy-review-archive.md)
