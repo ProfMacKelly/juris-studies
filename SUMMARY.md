@@ -233,7 +233,6 @@
     * [Conclusion](sourcebooks/business-law-i/tort-law/conclusion.md)
   * [Antitrust Law](sourcebooks/business-law-i/antitrust-law.md)
   * [Business Ethics and Social Responsibility](sourcebooks/business-law-i/business-ethics-and-social-responsibility.md)
-  * [Criminal Liability](sourcebooks/business-law-i/criminal-liability.md)
   * [Employment and Labor Law](sourcebooks/business-law-i/employment-and-labor-law.md)
   * [Government Regulation](sourcebooks/business-law-i/government-regulation.md)
   * [International Law](sourcebooks/business-law-i/international-law.md)
