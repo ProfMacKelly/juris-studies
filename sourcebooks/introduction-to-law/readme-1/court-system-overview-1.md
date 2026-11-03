@@ -2,10 +2,10 @@
 
 Every state has _two_ court systems: the _federal_ court system (which is structured the same in each state) and the _state_ court system (which varies slightly in each state). Federal courts are fewer in number than state courts. Because of the Tenth Amendment, as discussed in the [following section](court-system-overview.md), most laws are state laws and therefore most legal disputes go through the state court system.
 
-Federal courts are exclusive; they adjudicate only _federal_ matters. This means that a case can go through the federal court system only if it is based on a federal _statute_ or the federal _Constitution_. One exception is called **diversity of citizenship**.\[^diversity-of-citizenship] [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332). If citizens from different states are involved in a civil lawsuit and the amount in controversy exceeds $75,000, the lawsuit can take place in federal court. All federal _criminal prosecutions_ take place in federal courts.
+Federal courts are exclusive; they adjudicate only _federal_ matters. This means that a case can go through the federal court system only if it is based on a federal _statute_ or the federal _Constitution_. One exception is called **diversity of citizenship**.[^diversity-of-citizenship] [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332). If citizens from different states are involved in a civil lawsuit and the amount in controversy exceeds $75,000, the lawsuit can take place in federal court. All federal _criminal prosecutions_ take place in federal courts.
 
-\[^diversity-of-citizenship]: when there is no common state citizenship between the plaintiffs and defendants in a suit\
-\
+[^diversity-of-citizenship]: when there is no common state citizenship between the plaintiffs and defendants in a suit
+
 State courts are nonexclusive; they can adjudicate state or federal matters. Thus, an individual who wants to sue civilly for a federal matter has the option of proceeding in state or federal court. Additionally, someone involved in a lawsuit based on a federal statute or the federal Constitution can remove a lawsuit filed in state court to federal court. [28 U.S.C. § 1441 et. seq](https://www.law.cornell.edu/uscode/text/28/1441). All state _criminal prosecutions_ take place in state courts.
 
 ## Jurisdiction
