@@ -6,7 +6,7 @@ Federal courts are exclusive; they adjudicate only _federal_ matters. This means
 
 State courts are nonexclusive; they can adjudicate state or federal matters. Thus, an individual who wants to sue civilly for a federal matter has the option of proceeding in state or federal court. Additionally, someone involved in a lawsuit based on a federal statute or the federal Constitution can remove a lawsuit filed in state court to federal court. [28 U.S.C. § 1441 et. seq](https://www.law.cornell.edu/uscode/text/28/1441). All state _criminal prosecutions_ take place in state courts.
 
-## Jurisdiction [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=a97de9e640dec836ce36fd7e1c341ae98d5ae1fb:site_7336)](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/02%3A_The_Legal_System_in_the_United_States/2.03%3A_The_Court_System)
+## Jurisdiction
 
 Determining which court is appropriate for a particular lawsuit depends on the concept of [**jurisdiction**](../../../glossary.md#jurisdiction). Jurisdiction has two meanings. A court’s jurisdiction is the power or authority to hear the case in front of it. If a court does not have jurisdiction, it cannot hear the case. Jurisdiction can also be a geographic area over which the court’s authority extends.
 
