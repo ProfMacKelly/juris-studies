@@ -15,7 +15,7 @@ Sometimes, a federal court may hear a case involving state law. These cases are 
 | Type of Jurisdiction     | Description                                                                    | Minimum Dollar Requirement | Applicable Law |
 | ------------------------ | ------------------------------------------------------------------------------ | -------------------------- | -------------- |
 | Federal Question         | Cases involving the U.S. Constitution, treaties, or federal laws & regulations | None                       | Federal law    |
-| Diversity of Citizenship | Cases brought between citizens of different states                             | $75,000                    | State law      |
+| [Diversity of Citizenship](#user-content-fn-1)[^1] | Cases brought between citizens of different states                             | $75,000                    | State law      |
 
 ***
 
@@ -47,3 +47,5 @@ Personal jurisdiction, like standing, is a constitutional requirement. Most stat
 Except where otherwise noted, this page's content is adapted from [Federalism](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/) and [Subject Matter and Personal Jurisdiction](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
+
+[^1]: when there is no common state citizenship between the plaintiffs and defendants in a suit ([Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/diversity_of_citizenship) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/))
