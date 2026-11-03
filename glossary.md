@@ -184,7 +184,9 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/defendant) by [
 
 #### diversity of citizenship
 
-when there is no common state citizenship between the plaintiffs and defendants in a suit\*
+when there is no common state citizenship between the plaintiffs and defendants in a suit
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/diversity_of_citizenship) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 ***
 
